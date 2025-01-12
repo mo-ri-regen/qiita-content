@@ -1,15 +1,15 @@
 ---
-title: EC2 の料金タイプについて # 記事のタイトル
+title: EC2 の料金タイプについて
 tags:
-  - AWS # タグ（ブロックスタイルで複数タグを追加できます）
-  - ec2
+  - AWS
+  - EC2
   - アドベントカレンダー2021
-private: false # true: 限定共有記事 / false: 公開記事
-updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
-id: null # 記事を投稿した際に自動的に記事の UUID に変わります
-organization_url_name: https://qiita.com/organizations/awscloudtech # 関連付ける Organization の URL 名
-slide: false # true: スライドモード ON / false: スライドモード OFF
-ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiita に投稿されません） / false: `publish`コマンドで処理されます（Qiita に投稿されます）
+private: false
+updated_at: '2025-01-13T01:21:20+09:00'
+id: 87c6a99c77db5fc4203d
+organization_url_name: awscloudtech
+slide: false
+ignorePublish: false
 ---
 
 この記事は[AWS CloudTech カレンダー](https://qiita.com/advent-calendar/2021/awscloudtech)の 24 日目です。
